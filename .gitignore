@@ -76,3 +76,18 @@ crashlytics-build.properties
 *.plastic
 plastic.workspace
 plastic.ini
+# Unity папки
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Персональні налаштування користувача
+UserSettings/
+
+# Системні файли
+.DS_Store
+Thumbs.db
